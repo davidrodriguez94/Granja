@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Clase\ Animal.\r\n\ \r\n\ @author\ (David\ Rodriguez)\ \r\n\ @version\ (11/05/2018)\r\n
+comment1.params=puntosDeVida\ peso
+comment1.target=Animal(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Animal\r\n\ @param\ puntosDeVida\ \ \ \ \ \ Puntos\ de\ vida\ del\ animal\r\n\ @param\ peso\ \ \ \ \ \ \ \ \ \ \ \ \ \ Peso\ del\ animal\r\n
+comment2.params=
+comment2.target=void\ comer()
+comment3.params=
+comment3.target=void\ emitirSonidoCaracteristico()
+comment4.params=
+comment4.target=int\ getPeso()
+comment5.params=
+comment5.target=int\ getPuntosDeVida()
+comment6.params=
+comment6.target=void\ vacunar()
+numComments=7

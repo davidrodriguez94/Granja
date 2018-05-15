@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Vaca
+comment0.text=\r\n\ Clase\ Vaca.\r\n\ \r\n\ @author\ (David\ Rodriguez)\ \r\n\ @version\ (11/05/2018)\r\n
+comment1.params=
+comment1.target=Vaca()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Vaca\r\n
+comment2.params=
+comment2.target=void\ comer()
+comment2.text=\r\n\ Metodo\ que\ hace\ que\ la\ vaca\ coma\ y\ gane\ 2\ de\ peso\ y,\ a\ consecuencia,\ pierda\ 10\ puntos\ de\ vida\r\n
+comment3.params=
+comment3.target=void\ emitirSonidoCaracteristico()
+comment3.text=\r\n\ Metodo\ que\ imprime\ por\ pantalla\ el\ sonido\ caracteristico\ de\ la\ vaca\r\n
+comment4.params=
+comment4.target=int\ getPeso()
+comment4.text=\r\n\ Metodo\ getter\ que\ devuelve\ el\ peso\ de\ la\ vaca\r\n\ @return\ peso\ \ \ \ \ Devuelve\ el\ peso\ del\ animal\r\n
+comment5.params=
+comment5.target=int\ getPuntosDeVida()
+comment5.text=\r\n\ Metodo\ getter\ que\ devuelve\ los\ puntos\ de\ vida\ de\ la\ vaca\r\n\ @return\ puntosDeVida\ \ \ \ \ Devuelve\ los\ puntos\ de\ vida\ del\ animal\r\n
+comment6.params=
+comment6.target=void\ vacunar()
+comment6.text=\r\n\ Metodo\ que\ vacuna\ al\ animal\r\n
+numComments=7

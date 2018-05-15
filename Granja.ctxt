@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Granja
+comment0.text=\r\n\ Clase\ Granja.\r\n\ \r\n\ @author\ (David\ Rodriguez)\ \r\n\ @version\ (11/05/2018)\r\n
+comment1.params=
+comment1.target=Granja()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Granja\r\n
+comment2.params=animalAlQueAlimentar
+comment2.target=void\ alimentar(Animal)
+comment2.text=\r\n\ Metodo\ que\ permite\ alimentar\ al\ animal\ indicado\r\n\ @param\ animalAlQueAlimentar\ \ Animal\ que\ se\ va\ a\ alimentar\r\n
+comment3.params=animalAlQueVacunar
+comment3.target=void\ vacunar(Animal)
+comment3.text=\r\n\ Metodo\ que\ permite\ vacunar\ al\ animal\ indicado,\ menos\ al\ pato\r\n\ @param\ animalAlQueVacunar\ \ \ \ Animal\ que\ se\ va\ a\ vacunar\r\n
+comment4.params=animalSonidoCaracteristico
+comment4.target=void\ hacerEmitirSonidoCaracter\u00EDstico(Animal)
+comment4.text=\r\n\ Metodo\ que\ permite\ hacer\ el\ sonido\ caracteristico\ del\ animal\ indicado\r\n\ @param\ animalSonidoCaracteristico\ \ \ \ \ El\ animal\ que\ emite\ el\ sonido\ caracteristico\r\n
+numComments=5
